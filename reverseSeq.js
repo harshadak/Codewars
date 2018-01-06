@@ -1,3 +1,5 @@
+// 8 kyu
+
 // Reversed Sequence
 // Get the number n to return the reversed sequence from n to 1.
 

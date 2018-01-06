@@ -1,3 +1,5 @@
+// 8 kyu
+
 // Define a card suit
 // You get any card as an argument. Your task is to return a suit of this card.
 
